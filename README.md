@@ -25,6 +25,7 @@
 [`Click Here`](https://github.com/zeeoneofc/Alphabot7/blob/master/session.json#L1)
 
 ## `SETTING`
+Change only the things given below
 
 - Owner number [Here](https://github.com/zeeoneofc/Alphabot7/blob/master/settings.json#L4)
 - Owner name [Here](https://github.com/zeeoneofc/Alphabot7/blob/master/settings.json#L13)
