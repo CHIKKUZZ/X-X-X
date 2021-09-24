@@ -27,7 +27,7 @@
 ## `SETTING`
 Change only the things given below
 
-- Owner number [Here](https://github.com/zeeoneofc/Alphabot7/blob/master/settings.json#L4)
+- Owner number [Here](https://github.com/MINION-KOKACHY/X-X-X/blob/master/settings.json#L4)
 - Owner name [Here](https://github.com/zeeoneofc/Alphabot7/blob/master/settings.json#L13)
 - Botname [Here](https://github.com/zeeoneofc/Alphabot7/blob/master/settings.json#L14)
 
