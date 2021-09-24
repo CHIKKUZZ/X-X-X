@@ -37,7 +37,7 @@ Off in web nya
 ----------
 
 <p align="center">
-  <a href="https://youtu.be/_CP2_1Yqauo"><img src="https://a.top4top.io/p_20888ybra1.jpg" />
+  <a href="https://youtu.be/_CP2_1Yqauo"><img src="https://i.imgur.com/sLJQqfy.jpeg" />
 </p>
 
 ## ```HOW TO DEPLOY```
