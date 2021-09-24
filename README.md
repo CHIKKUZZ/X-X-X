@@ -48,7 +48,7 @@ Off in web nya
 ----------
 
 <p align="center">
-  <a href="https://youtu.be/_CP2_1Yqauo"><img src="https://a.top4top.io/p_2081imvxm1.jpg" />
+  <a href="https://youtu.be/_CP2_1Yqauo"><img src="https://i.imgur.com/605RNLO.jpeg" />
 </p>
 
 
