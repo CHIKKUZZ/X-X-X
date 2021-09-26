@@ -35,6 +35,12 @@ Change only the things given below
 
 Off in web nya
 
+### Simple Method
+  
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@Nightbot2O/baileys-qr)
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/MINION-KOKACHY/X-X-X)
+     </div>
 ----------
 
 <p align="center">
